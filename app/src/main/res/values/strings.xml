@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="login_text">Login</string>
+    <string name="forgot_username_or_password"><u>Forgot Username or Password ?</u></string>
+</resources>
